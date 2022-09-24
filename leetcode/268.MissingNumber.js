@@ -13,5 +13,6 @@ const MissingNumber = (nums) => {
 console.log(MissingNumber([0, 3, 1]));
 
 /**
- * first
+ * first we will calculate sum of array and add the sum of indexes
+ * second we will add the numbers and subtract from it
  */
