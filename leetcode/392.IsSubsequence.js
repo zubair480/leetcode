@@ -1,4 +1,4 @@
-// 392. 392. is subsequence solution in JavaScript
+// 392. 392. is; subsequence solution in JavaScript
 
 /**
  * 1.st calculate the length of both strings as sl and tl
